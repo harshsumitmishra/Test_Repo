@@ -1,0 +1,31 @@
+klavis API: Sm/heLhqYjNCzBmKSBO5q/X1fE3JwJemo+kUyIz04e4=
+
+
+https://github-mcp-server.klavis.ai/mcp/?instance_id=197a4951-08b7-4972-a10a-304d4b41e3f5
+
+
+curl -Method POST `
+     -Uri "https://api.klavis.ai/mcp-server/instance/create" `
+     -Headers @{
+         "Authorization" = "Bearer Sm/heLhqYjNCzBmKSBO5q/X1fE3JwJemo+kUyIz04e4="
+         "Content-Type"  = "application/json"
+     } `
+     -Body '{
+         "serverName": "Github",
+         "userId": "mishrasum2022@gmail.com",
+         "platformName": "klavis_qa_testing"
+     }'
+
+no Rate limit:
+gmail
+notion
+
+
+Rate limit:
+clickup
+g calendar 
+asana
+slack
+GitHub
+
+TODO: PERF
