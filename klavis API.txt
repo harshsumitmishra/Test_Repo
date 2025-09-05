@@ -16,6 +16,10 @@ curl -Method POST `
          "platformName": "klavis_qa_testing"
      }'
 
+# TODO: PERF - Improve the performance of this function
+def slow_function():
+    pass
+
 no Rate limit:
 gmail
 notion
@@ -26,4 +30,13 @@ clickup
 g calendar 
 asana
 slack
-github
+GitHub
+
+
+TODO: PERF
+
+//TODO: PERF
+
+TODO: PERFTODO: PERFTODO: PERF
+
+
